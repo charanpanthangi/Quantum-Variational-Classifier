@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <title>Classical decision boundary</title>
+  <rect width="320" height="200" fill="white" stroke="lightgray" />
+  <line x1="160" y1="20" x2="160" y2="180" stroke="gray" stroke-dasharray="4 4" />
+  <text x="165" y="25" font-size="10" fill="gray">x = 0.5</text>
+  <circle cx="70" cy="55" r="4" fill="#1f77b4" />
+  <circle cx="130" cy="75" r="4" fill="#1f77b4" />
+  <circle cx="190" cy="120" r="4" fill="#ff7f0e" />
+  <circle cx="250" cy="145" r="4" fill="#ff7f0e" />
+  <text x="20" y="190" font-size="10" fill="#1f77b4">True</text>
+  <text x="70" y="190" font-size="10" fill="#ff7f0e">Pred</text>
+</svg>
