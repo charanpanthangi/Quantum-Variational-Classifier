@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+  <title>QNN training loss</title>
+  <rect width="320" height="200" fill="white" stroke="lightgray" />
+  <polyline fill="none" stroke="#2ca02c" stroke-width="2" points="20,160 80,140 140,110 200,85 260,70 300,60" />
+  <circle cx="20" cy="160" r="3" fill="#2ca02c" />
+  <circle cx="80" cy="140" r="3" fill="#2ca02c" />
+  <circle cx="140" cy="110" r="3" fill="#2ca02c" />
+  <circle cx="200" cy="85" r="3" fill="#2ca02c" />
+  <circle cx="260" cy="70" r="3" fill="#2ca02c" />
+  <circle cx="300" cy="60" r="3" fill="#2ca02c" />
+  <text x="20" y="190" font-size="10" fill="#2ca02c">Loss trend</text>
+</svg>
